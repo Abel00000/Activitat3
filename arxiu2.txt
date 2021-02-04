@@ -1,1 +1,5 @@
-Avui no es un bon dia d'estiu
+<<<<<<< HEAD
+Mai fa  un dia d'estiu
+=======
+Mai fa un dia d'estiu
+>>>>>>> master
